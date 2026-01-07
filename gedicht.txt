@@ -1,9 +1,9 @@
 Farbpalette
 
 Rot
-Hellgrün
-Dunkelgrün
-Blau
+Grün
+Hellblau
+Dunkelblau
 Gelb
 Magenta
 Sind alles tolle Farben.
